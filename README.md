@@ -1,8 +1,8 @@
 # Cybersecurity Portfolio
 
 ## Projects
-- [Full-House Private and Controlled Environment] (#) - Documented and created network defense setup
-
+- [Full-House Private and Controlled Environment](#) - Documented and created network defense setup
+- [Wireshark Traffic Analysis](#) — Analysis of sample packet captures
 ## Skills
 
 
