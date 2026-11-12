@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## Projects
-- [Full-House Private and Controlled Environment](#) - Documented and created network defense setup
+- [Full-House Private and Controlled Environment](#) - Documented and tested ArgonShield
 
 ## Skills
 
